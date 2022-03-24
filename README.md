@@ -1,13 +1,9 @@
-programming-projects-for-n00bz
-==============================
-
-/g/'s Programming Projects for n00bz. Courtesy of anon from 4chan.
-
-These are in random difficulty order.
+# ✨ programming-projects-for-n00bz
+*g/'s Programming Projects for n00bz. Courtesy of anon from 4chan.*
 
 How to Play
 -----------------------------
-Last three digits of your post decide.
+Create or use a number rolling program, [I made my own!]()
 
 Happy Rolling!
 
